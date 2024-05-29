@@ -9,12 +9,39 @@
 </head>
 
 <body> 
-    <header class="container">
-        <div class="rownavbar navbar-expand-lg navbar-light"
-        style="background: linear-gradient(to right, #52cdec, #1d0cdc);">
+    <div class="container">
+    </header>
+    <div class="rownavbar navbar-expand-lg navbar-light" style="background: linear-gradient(to right, #52cdec, #1d0cdc);">
     <div class="col-12 text-center">
         <h1>The Weather Dashboard</h1>
+        </div>
     </div>
-</header>
+
+    <div class="row">
+        <div class="col-3 bg-light pb-2 pt 3" id="searchResults">
+            <div class="row">
+                <div class="col-12">
+                    <h2>Search a City:</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-12">
+            <div class="input-group"
+            <input class="form-control" type="text" id="enterACity" placeholder="Enter a City"><button type="button" id="searchButton" class="btn btn-primary">Search</button>
+        </div>
+    </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col-12">
+            <ul id="searchHistory" class="list-group"></ul>
+        </div>
+    </div>
+
+    
+
 </body>
 </html>
