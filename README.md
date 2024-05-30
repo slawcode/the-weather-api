@@ -24,7 +24,7 @@ A five day weather application
 ![Screenshot of application open the browser with the same weather results as London, displayed on the page for Toronto](./images/screenshot4.png)
 
 - Live link for this application 
-[x][y]
+[x]https://slawcode.github.io/the-weather-dashboard/[y]
 
 ## License 
 - There is no license for this project. 
