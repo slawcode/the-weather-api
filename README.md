@@ -15,6 +15,14 @@ A five day weather application
 
 - Screenshots of this application
 
+![Screenshot of application open the browser](./images/screenshot1.png)
+
+![Screenshot of application open the browser with the city London in the search/input box](./images/screenshot2.png)
+
+![Screenshot of application open the browser with the weather results for London displayed on the page](./images/screenshot3.png)
+
+![Screenshot of application open the browser with the same weather results as London, displayed on the page for Toronto](./images/screenshot4.png)
+
 - Live link for this application 
 [x][y]
 
