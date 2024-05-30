@@ -12,6 +12,11 @@ A five day weather application
 - This webpage can be accessed by placing the URL in a browser. The webpage does not require any authentications, for example, a password. 
 - The user will type a city in the search bar, under the 'Search For A City' text, and click the 'Search' button.
 
+- Screenshots of this application
+
+- Live link for this application 
+[x][y]
+
 ## License 
 - There is no license for this project. 
 
