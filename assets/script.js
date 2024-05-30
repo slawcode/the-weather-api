@@ -3,7 +3,7 @@ document.getElementById('searchButton').addEventListener('click', function() {
     // Variables created 
     var city = document.getElementById('cityInput').value;
     var apiKey = '90144234923256377c0e16ccc86b8d67'; // API key 
-    var apiUrl = `http://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=90144234923256377c0e16ccc86b8d67`; // API URL
+    var apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=90144234923256377c0e16ccc86b8d67`; // API URL
 
     // Fetch initiates request to the URL and parses it as JSON
     fetch(apiUrl).then(response => response.json())
