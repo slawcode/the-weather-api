@@ -33,10 +33,11 @@ document.getElementById('searchButton').addEventListener('click', function() {
         document.getElementById('fiveDays').innerHTML = '<p>There was an error fetching this weather data</p>';
     });
 });
-
+// Function to display the five day forecast
 function displayForecast(data) {
     console.log('clicked');
     let weatherResults = ''
+    // For loop to loop through 40 object count with updated weather for every three hours 
     for (let i = 3; i < data.list.length; i += 8) {
         weatherResults += `
         <h2>${data.list[i].dt_txt}<h2>
