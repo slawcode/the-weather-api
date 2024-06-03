@@ -30,7 +30,7 @@ A five day weather application
 - Live link for this application 
 [x]https://slawcode.github.io/the-weather-dashboard/[y]
 
-## License 
+## License
 - There is no license for this project. 
 
 ## Credits 
