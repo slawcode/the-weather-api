@@ -28,7 +28,7 @@ A five day weather application
 ![Screenshot of application open in browser with city California's full 5 day forecast results displayed on the page](images/screenshot5.png)
 
 - Live link for this application 
-[x][y]
+[x]https://slawcode.github.io/the-weather-dashboard/[y]
 
 ## License 
 - There is no license for this project. 
